@@ -1,0 +1,7 @@
+requests
+colorpick
+colorama
+yt_dlp
+youtubesearchpython
+climage
+moviepy
