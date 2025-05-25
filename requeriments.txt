@@ -2,6 +2,6 @@ requests
 colorpick
 colorama
 yt_dlp
-youtubesearchpython
+youtube-search-python
 climage
 moviepy
